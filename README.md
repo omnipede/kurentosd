@@ -4,6 +4,7 @@ Kurento send data channel demo
 
 # Requirements
 
+* Docker
 * jdk >= 19
 * bower
 
